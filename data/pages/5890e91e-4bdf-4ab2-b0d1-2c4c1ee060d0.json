@@ -12,10 +12,10 @@
   "created_at": "2025-08-26T02:41:07.780Z",
   "created_by": "trentwintermeier",
   "title": "The Mike Wallace Interview",
-  "updated_at": "2025-08-26T03:32:35.524Z",
+  "updated_at": "2025-08-26T03:38:18.375Z",
   "updated_by": "trentwintermeier",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "home"
   }
 }
