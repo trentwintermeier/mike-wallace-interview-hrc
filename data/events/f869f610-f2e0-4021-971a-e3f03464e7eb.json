@@ -1,0 +1,30 @@
+{
+  "audiovisual_files": {
+    "2938ba1f-a309-4b1f-be39-f598d8e3190f": {
+      "label": "Interview with Margaret Sanger",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://server15878.contentdm.oclc.org/dmwebservices/index.php?q=dmGetStreamingFile/p15878coll90/28.mp4/byte/json",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Interview with Margaret Sanger",
+  "created_at": "2025-08-26T02:44:28.479Z",
+  "created_by": "trentwintermeier",
+  "updated_at": "2025-08-26T02:44:28.479Z",
+  "updated_by": "trentwintermeier"
+}
