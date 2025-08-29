@@ -1,0 +1,540 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This page offers instructors interested in using AVAnnotate a series of content questions, method questions, and student learning outcomes. These questions and outcome are then integrated into the annotations across four interviews. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Humanities",
+          "bold": true,
+          "textSize": "heading-one"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Content Questions"
+        }
+      ]
+    },
+    {
+      "type": "list-item",
+      "children": [
+        {
+          "text": "How do the close-up shots used for the interviews influence the tone and meaning of the show?"
+        }
+      ]
+    },
+    {
+      "type": "list-item",
+      "children": [
+        {
+          "text": "What cultural and political ideas emerge across the episodes that are representative of the late-1950s?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Method Questions"
+        }
+      ]
+    },
+    {
+      "type": "list-item",
+      "children": [
+        {
+          "text": "How can close reading strategies be used to analyze sound and video?"
+        }
+      ]
+    },
+    {
+      "type": "list-item",
+      "children": [
+        {
+          "text": "How can rhetorical or literary analysis be used to look at voice, silence, and tone, and how can this be integrated into the annotations/transcript?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Student Outcomes"
+        }
+      ]
+    },
+    {
+      "type": "list-item",
+      "children": [
+        {
+          "text": "Evaluate how historical narratives are communicated through performance"
+        }
+      ]
+    },
+    {
+      "type": "list-item",
+      "children": [
+        {
+          "text": "Interpret how language and meaning signal the investments of a cultural moment"
+        }
+      ]
+    },
+    {
+      "type": "list-item",
+      "children": [
+        {
+          "text": "Adapt textual methods to sonic and visual media"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "Social Sciences",
+          "textSize": "heading-one"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Content Questions"
+        }
+      ]
+    },
+    {
+      "type": "list-item",
+      "children": [
+        {
+          "text": "What does the list of interviewees and the content of their interviews suggest about the role, politics, and influence of public figures in the late-1950s?"
+        }
+      ]
+    },
+    {
+      "type": "list-item",
+      "children": [
+        {
+          "text": "Where do societal ideologies emerge across four interviews and what does this communicate about the purpose of the series?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Method Questions"
+        }
+      ]
+    },
+    {
+      "type": "list-item",
+      "children": [
+        {
+          "text": "How can qualitative coding be used to categorize the tone, language, and style of interviews?"
+        }
+      ]
+    },
+    {
+      "type": "list-item",
+      "children": [
+        {
+          "text": "Using discourse analysis, what ideas and interviewer-interviewee dynamics are repeated across the series?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Student Outcomes"
+        }
+      ]
+    },
+    {
+      "type": "list-item",
+      "children": [
+        {
+          "text": "Application of qualitative research methods to audio and video material"
+        }
+      ]
+    },
+    {
+      "type": "list-item",
+      "children": [
+        {
+          "text": "Analysis of how meaning circulates across different sociopolitical setting, including interviews"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "Media/Communications/Radio, Television, Film",
+          "textSize": "heading-one"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Content Questions"
+        }
+      ]
+    },
+    {
+      "type": "list-item",
+      "children": [
+        {
+          "text": "Based on both the content and style of three interviews, what do the conventions of this series reveal about how journalism reflects societal investments?"
+        }
+      ]
+    },
+    {
+      "type": "list-item",
+      "children": [
+        {
+          "text": "How can annotating camera shots and audio quality be used to develop new ways to think about the use of narrative in interviews?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Method Questions"
+        }
+      ]
+    },
+    {
+      "type": "list-item",
+      "children": [
+        {
+          "text": "How can analysis of media technologies alone be used to better understand the relationship between the interviewee, audience, and the archive?"
+        }
+      ]
+    },
+    {
+      "type": "list-item",
+      "children": [
+        {
+          "text": "How can annotating according to media and content be used to aid qualitative analysis of secondary material?\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Student Outcomes"
+        }
+      ]
+    },
+    {
+      "type": "list-item",
+      "children": [
+        {
+          "text": "Demonstrate how critical analysis of media impacts the style and content of journalism"
+        }
+      ]
+    },
+    {
+      "type": "list-item",
+      "children": [
+        {
+          "text": "Reflection on how cultural narratives are communicated in archival settings"
+        }
+      ]
+    },
+    {
+      "type": "list-item",
+      "children": [
+        {
+          "text": "Collaboration between content, media, and form, alongside analysis of secondary material"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "Education and Pedagogy",
+          "textSize": "heading-one"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Content Questions"
+        }
+      ]
+    },
+    {
+      "type": "list-item",
+      "children": [
+        {
+          "text": "How is knowledge modeled and valued in different parts of interviews, and different interviewees, versus others?"
+        }
+      ]
+    },
+    {
+      "type": "list-item",
+      "children": [
+        {
+          "text": "How does the form of the interview ask students to consider the role of public knowledge-making and education?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Method Questions"
+        }
+      ]
+    },
+    {
+      "type": "list-item",
+      "children": [
+        {
+          "text": "What critical analysis strategies become available to students in audiovisual media?"
+        }
+      ]
+    },
+    {
+      "type": "list-item",
+      "children": [
+        {
+          "text": "How can educators promote students' shift from passive to active listening through collaborative annotation?\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Student Outcomes"
+        }
+      ]
+    },
+    {
+      "type": "list-item",
+      "children": [
+        {
+          "text": "Develop critical listening skills in interpersonal and mediated settings"
+        }
+      ]
+    },
+    {
+      "type": "list-item",
+      "children": [
+        {
+          "text": "Practice interdisciplinary methods for engaging in public-facing digital humanities work"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Disciplinary Learning Outcomes",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "disciplinary-learning-outcomes",
+  "created_at": "2025-08-29T21:21:03.565Z",
+  "created_by": "trentwintermeier",
+  "updated_at": "2025-08-29T21:21:03.565Z",
+  "updated_by": "trentwintermeier"
+}
