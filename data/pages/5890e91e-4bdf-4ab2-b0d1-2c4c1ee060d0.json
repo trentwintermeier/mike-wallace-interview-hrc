@@ -7,12 +7,116 @@
           "text": ""
         }
       ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Mike Wallace rose to prominence in 1956 with the New York City television interview program Night-Beat, which soon developed into the nationally televised prime-time program The Mike Wallace Interview. This project illustrates how instructors can use AVAnnotate and audiovisual material held at the HRC in their classroom. Each project has AV, transcripts, and annotations related to a specific discipline."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Disciplinary Learning Outcomes"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Interview with Margaret Sanger",
+                  "link": "https://trentwintermeier.github.io/mike-wallace-interview-hrc/events/interview-with-margaret-sanger/"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Interview with Frank Lloyd Wright",
+                  "link": "https://trentwintermeier.github.io/mike-wallace-interview-hrc/events/interview-with-frank-lloyd-wright/"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Interview with James McBride Dabbs",
+                  "link": "https://trentwintermeier.github.io/mike-wallace-interview-hrc/events/interview-with-james-mcbride-dabbs/"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Interview with Salvador Dalí",
+                  "link": "https://trentwintermeier.github.io/mike-wallace-interview-hrc/events/interview-with-salvador-dali/"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Index",
+                  "link": "https://trentwintermeier.github.io/mike-wallace-interview-hrc/tags/"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     }
   ],
   "created_at": "2025-08-26T02:41:07.780Z",
   "created_by": "trentwintermeier",
   "title": "The Mike Wallace Interview",
-  "updated_at": "2025-08-29T21:23:42.496Z",
+  "updated_at": "2025-08-29T21:29:38.370Z",
   "updated_by": "trentwintermeier",
   "autogenerate": {
     "enabled": false,
