@@ -530,11 +530,11 @@
   "title": "Disciplinary Learning Outcomes",
   "autogenerate": {
     "enabled": false,
-    "type": "home"
+    "type": "custom"
   },
   "slug": "disciplinary-learning-outcomes",
   "created_at": "2025-08-29T21:21:03.565Z",
   "created_by": "trentwintermeier",
-  "updated_at": "2026-03-12T18:34:01.415Z",
+  "updated_at": "2026-03-12T18:34:06.402Z",
   "updated_by": "trentwintermeier"
 }
